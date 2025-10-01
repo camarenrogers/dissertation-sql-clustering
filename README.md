@@ -8,7 +8,7 @@ This repository contains my final dissertation submitted in 2025, exploring SQL-
 ##  Abstract
 This study investigates how SQL-driven clustering and PCA can uncover regional equity patterns, with implications for policy design and resource allocation.
 
-## 🛠️ Tools Used
+##  Tools Used
 - SQL
 - Power BI
 - PCA
